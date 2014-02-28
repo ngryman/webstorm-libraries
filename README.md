@@ -21,3 +21,7 @@ This is basically the same procedure:
  4. Specify the name you want.
  5. Add the files you want.
  6. Woot!
+
+## Contribute
+
+Please feel free to add new libraries <3.
