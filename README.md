@@ -6,7 +6,7 @@ Set of libraries to enable auto completion and avoid warnings.
 
 You currently can add support to:
 
- - [mocha](http://visionmedia.github.io/mocha/).
+ - [mocha](http://mochajs.org/).
  - [chai](http://chaijs.com/).
 
 ## Installation
